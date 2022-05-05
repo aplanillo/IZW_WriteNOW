@@ -20,5 +20,5 @@ Also, you can see and add suggestions for topics to be addressed in the meetings
   
 Confirmation of attendance is adviced in order to receive the latest news/changes affecting the meetings. Please, send your confirmation to planillo@izw-berlin.de
 
-Happy writing!/n
-Aimara
+Happy writing!
+<br />Aimara
