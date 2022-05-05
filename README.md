@@ -15,6 +15,7 @@ WriteNOW meetings are open to all members of the Ecological Dynamics group, plus
 In this repository you will find several folders containing the main topics that were addressed during the meetings (lectures, exercises, recommendations and tips and tricks). Please, keep in mind that available material was created from a mix of multiple sources, including, but not limited to, books, websites and personal experience. Thus, this is not an exhaustive course on scientific writing, just a space to practice and boost your skills. Any constructive criticism is welcome and we'll be incorporated to future meetings.  
 
 The schedule for the meetings in available at: <insert url>
+  
 Also, you can see and add suggestions for topics to be addressed in the meetings here: <insert url>
   
 Confirmation of attendance is adviced in order to receive the latest news/changes affecting the meetings. Please, send your confirmation to planillo@izw-berlin.de
